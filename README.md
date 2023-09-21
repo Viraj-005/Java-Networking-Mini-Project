@@ -2,7 +2,7 @@
 Multiplayer Tic-Tac-Toe Game Server
 
 Rule:
-	The player1 will be who first starts the game ( click buttons).
+	Player 1 is determined by the person who starts the game first (click buttons).
 
 About Us:
     Group Members (Group F);
