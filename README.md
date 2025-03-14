@@ -1,6 +1,8 @@
 # Java-Networking-Mini-Project
 Multiplayer Tic-Tac-Toe Game Server
 
+![Screenshot](pic4.png)
+
 Rule:
 	Player 1 is determined by the client who starts the game first (click buttons).
 
